@@ -24,6 +24,23 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+       ![exp4 ss1](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/8df28628-a210-4d27-8ebc-2ce57e433e1d)
+       ![exp4 ss2](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/592ee5d5-a7c1-43a0-82fc-001da79ac689)
+       ![exp4 ss3](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/ff25fef5-0628-4535-91e0-c86d8e60d3db)
+       ![exp4 ss4](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/e7bab417-72c7-4557-a111-2488c691802f)
+       ![exp4 ss5](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/7dd055c5-ff5a-4e1d-a666-415d2982d4b1)
+       ![exp4 ss6](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/f0746307-1ce9-40e0-9fc4-c8ed5dfcef7d)
+       ![exp4 ss7](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/03a666c9-789a-4a61-bcfc-9574446fdf78)
+       ![exp4 ss8](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/9cb37f19-6c1d-4c29-a40d-2ecedacf53cb)
+       ![exp4 ss9](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/441951f9-2fac-4ca0-af11-cbef29d6d6c2)
+       ![exp4 ss10](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/83a8e728-916e-4ebc-8ae8-c8e2ae8c1d04)
+       ![exp4 ss11](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/9de22b2a-f974-4f03-ad32-3b71392c3b82)
+       ![exp4 ss12](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/4267ed4a-c0c6-4a37-8418-8f9380eba008)
+       ![exp4 ss13](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/f3d75cd2-c43a-45b8-bc9c-27adcf067984)
+       ![exp4 ss14](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/2810c555-4662-46b6-9677-ecc156c573bd)
+       ![exp4 ss15](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/32cac4e2-3e3f-42fa-86c6-ac406be89c83)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus the code to read the given data and perform Feature Scaling and Feature Selection process and save the
+data to a file is implemented successfully.
