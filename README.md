@@ -24,6 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
+
        ![exp4 ss1](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/8df28628-a210-4d27-8ebc-2ce57e433e1d)
        ![exp4 ss2](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/592ee5d5-a7c1-43a0-82fc-001da79ac689)
        ![exp4 ss3](https://github.com/smriti1910/EXNO-4-DS/assets/133334803/ff25fef5-0628-4535-91e0-c86d8e60d3db)
