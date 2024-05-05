@@ -1,4 +1,6 @@
-# EXNO:4-DS
+# EXNO:4  Feature Scaling and Selection
+# Date:
+
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
